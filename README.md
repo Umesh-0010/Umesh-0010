@@ -21,7 +21,7 @@
 - 👯 I'm looking to collaborate on **open-source web projects**
 - 🤔 I'm looking for help with **scaling production-grade apps**
 - 💬 Ask me about **React, Node.js, databases, or APIs**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **usarki674@gmail.com**
 - ⚡ Fun fact: **I debug better with coffee in hand ☕**
 
 ---
@@ -54,7 +54,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umesh-0010&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Umesh-0010&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
