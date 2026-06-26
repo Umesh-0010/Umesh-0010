@@ -49,13 +49,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Umesh-0010&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Umesh-0010&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" />
-</p>
 
 ---
 
